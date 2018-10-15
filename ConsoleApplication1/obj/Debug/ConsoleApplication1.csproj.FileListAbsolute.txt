@@ -1,0 +1,22 @@
+C:\Users\Yunus\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Yunus\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Yunus\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Yunus\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Yunus\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Yunus\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Yunus\Desktop\Kullanılan Net Miktarı Mb Gb\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Yunus\Desktop\Kullanılan Net Miktarı Mb Gb\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Yunus\Desktop\Kullanılan Net Miktarı Mb Gb\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\0YnsBldk 2017 C# Works\Kullanılan Net Miktarı Mb Gb\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\0YnsBldk 2017 C# Works\Kullanılan Net Miktarı Mb Gb\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\0YnsBldk 2017 C# Works\Kullanılan Net Miktarı Mb Gb\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\0YnsBldk 2017 C# Works\Kullanılan Net Miktarı Mb Gb\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\0YnsBldk 2017 C# Works\Kullanılan Net Miktarı Mb Gb\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\0YnsBldk 2017 C# Works\Kullanılan Net Miktarı Mb Gb\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\0YnsBldk 2017 C# Works\WinForms\Kullanılan Net Miktarı Mb Gb\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\0YnsBldk 2017 C# Works\WinForms\Kullanılan Net Miktarı Mb Gb\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\0YnsBldk 2017 C# Works\WinForms\Kullanılan Net Miktarı Mb Gb\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\0YnsBldk 2017 C# Works\WinForms\Kullanılan Net Miktarı Mb Gb\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\0YnsBldk 2017 C# Works\WinForms\Kullanılan Net Miktarı Mb Gb\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\0YnsBldk 2017 C# Works\WinForms\Kullanılan Net Miktarı Mb Gb\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\0YnsBldk 2017 C# Works\WinForms\Kullanılan Net Miktarı Mb Gb\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
