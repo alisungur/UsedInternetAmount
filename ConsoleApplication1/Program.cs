@@ -50,43 +50,28 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
 
-
-
-
-
             if (!NetworkInterface.GetIsNetworkAvailable())
                 return;
 
             NetworkInterface[] interfaces = NetworkInterface.GetAllNetworkInterfaces(); /// Kullanılan bağlantılar....
-
-
-
 
             foreach (NetworkInterface ni in interfaces)
             {
 
                 if (ni.Name == "Wi-Fi" || ni.Name== "Kablosuz Ağ Bağlantısı") /// Wifi ise bloka gir
                 {
-
                     Console.WriteLine(ni.Name);
                     Console.WriteLine("Bytes Sent: {0}", SizeSuffix(ni.GetIPv4Statistics().BytesSent));
                     Console.WriteLine("Bytes Received: {0}", SizeSuffix(ni.GetIPv4Statistics().BytesReceived));
-                    Console.WriteLine("\n");
-
-                  
+                    Console.WriteLine("\n");                  
 
                 }
-
-
-
-                //else if (ni.Name == "Ethernet 2")
+                //else if (ni.Name == "Ethernet 2") ////Diğer Seçenek ..sizde farklı olabilir.
                 //{
 
                 //    Console.WriteLine(ni.Name);
                 //    Console.WriteLine("Bytes Sent: {0}", SizeSuffix(ni.GetIPv4Statistics().BytesSent));
                 //    Console.WriteLine("Bytes Received: {0}", SizeSuffix(ni.GetIPv4Statistics().BytesReceived));
-
-
 
 
                 //}
@@ -101,8 +86,7 @@ namespace ConsoleApplication1
                    
 
                 //    string ifade = Console.ReadLine();
-                //    string gelen = SizeSuffix(interfaceStats.BytesReceived);
-                   
+                //    string gelen = SizeSuffix(interfaceStats.BytesReceived);                
                   
                    
                
